@@ -34,9 +34,8 @@ Business Strategy - Data-driven decision making
 
 🌱 Currently Learning
 
-Test automation
-Advanced React patterns
-More Next.js features
+SQL
+Vue.js
 
 💼 Projects
 Check out my repositories to see projects from Czechitas courses, including:
