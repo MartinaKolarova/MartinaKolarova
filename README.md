@@ -1,5 +1,7 @@
 Hi there! 👋
+
 I'm a developer & QA specialist with a teaching background, bringing strong communication and problem-solving skills to tech. Graduate of Czechitas courses, constantly learning and improving my skills across development, testing, and business analysis.
+
 🛠️ Tech Stack
 Frontend Development
 
@@ -45,5 +47,5 @@ Hackathon projects
 
 📫 Let's Connect
 
-GitHub: @your-username
-LinkedIn: Your LinkedIn
+GitHub: @MartinaKolarova
+LinkedIn: www.linkedin.com/in/martina-kolarova-b5a5262bb
