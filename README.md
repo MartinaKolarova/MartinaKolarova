@@ -6,43 +6,46 @@ I'm a developer & QA specialist with a teaching background, bringing strong comm
 Frontend Development
 
 HTML & CSS - Modern CSS, responsive design
-JavaScript - Intermediate level
-React - Intermediate level, component-based development
-Next.js - Basics, server-side rendering
-Vue.js - Self-taught with Vite, component development
+- JavaScript - Intermediate level
+- React - Intermediate level, component-based development
+- Next.js - Basics, server-side rendering
+- Vue.js - Self-taught with Vite, component development
 
 Backend & Data
 
-API Integration - Working with endpoints, data fetching
-JSON - Creating and manipulating data structures
-SQL - Basics of database queries
-Excel - Pivot tables, data analysis
+- API Integration - Working with endpoints, data fetching
+- JSON - Creating and manipulating data structures
+- SQL - Basics of database queries
+- Excel - Pivot tables, data analysis
 
 Testing & QA
 
-Manual Testing - Test case design and execution
-Integration Testing - Understanding test flows
-Testing Tools - Jira, Trello
-Best Practices - Forms, templates, documentation
-🎯 Currently learning: Test automation
+- Manual Testing - Test case design and execution
+- Integration Testing - Understanding test flows
+- Testing Tools - Jira, Trello
+- Best Practices - Forms, templates, documentation
 
 AI & Analytics
 
-Generative AI - ChatGPT, Claude, Gemini
-Business Intelligence - Power BI
-Business Strategy - Data-driven decision making
+- Generative AI - ChatGPT, Claude, Gemini
+- Business Intelligence - Power BI
+- Business Strategy - Data-driven decision making
 
 🌱 Currently Learning
 
-SQL
-Vue.js
-
+- SQL
+- Vue.js
+- Power BI
+  
 💼 Projects
+
 Check out my repositories to see projects from Czechitas courses, including:
 
-Team collaborations using Git
-React applications
-Hackathon projects
+- Team collaborations using Git
+- React applications
+- Hackathon projects
+- HTML, JS, CSS exercises
+- vue.js learning
 
 📫 Let's Connect
 
