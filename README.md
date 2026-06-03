@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a developer & QA specialist with a teaching background, bringing strong communication and problem-solving skills to tech. Graduate of Czechitas courses, constantly learning and improving my skills across development, testing, and business analysis.
+I'm Junior data analyst with a teaching background, bringing strong communication and problem-solving skills to tech. Graduate of Czechitas courses, constantly learning and improving my skills across development, testing, and business analysis.
 
 🛠️ Tech Stack
 Frontend Development
@@ -34,8 +34,11 @@ AI & Analytics
 🌱 Currently Learning
 
 - SQL
-- Vue.js
-- Power BI
+- Python
+- MS Azure
+- Ollama
+- API integration
+- OAuth 2.0
   
 💼 Projects
 
@@ -45,7 +48,7 @@ Check out my repositories to see projects from Czechitas courses, including:
 - React applications
 - Hackathon projects
 - HTML, JS, CSS exercises
-- vue.js learning
+- my learning projects
 
 📫 Let's Connect
 
